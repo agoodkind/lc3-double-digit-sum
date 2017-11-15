@@ -3,7 +3,7 @@
 ; CSC-240
 ; Professor Dr. Mink
 ;
-; The following program solicits double can add two numbers between the values 00 and 99
+; The following program solicits two 2-digit numbers between the values 00 and 99 and adds them together
 ;
 
 .ORIG x3000
