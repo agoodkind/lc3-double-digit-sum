@@ -1,0 +1,32 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	Done                    3014
+//	LoopHundreds            303D
+//	LoopOnes                304D
+//	LoopTens                3046
+//	MULTIPLY                302C
+//	asciiHexOffset          305E
+//	asciiNegHexOffset       305D
+//	getInput                3015
+//	inputValueOnes          3054
+//	inputValueTens          3055
+//	negativeOneHundred      3060
+//	newLine                 30F7
+//	oneHundred              305F
+//	programPurpose          3067
+//	sumDecimal              3058
+//	sumHundredsPlaceDigit   3059
+//	sumLogic                3036
+//	sumNullPuts             305C
+//	sumOnesPlaceDigit       305B
+//	sumPrompt               30EF
+//	sumTensPlaceDigit       305A
+//	tempR0                  3061
+//	tempR1                  3062
+//	tempR2                  3063
+//	tempR3                  3064
+//	tempR4                  3065
+//	tempR7                  3066
+//	userPrompt              30D3
+//	valueDecimal1           3056
+//	valueDecimal2           3057
