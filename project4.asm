@@ -29,7 +29,7 @@
 
 	; load back these values
 	LD R1, valueDecimal1
-	LD R2, valueDecimal1
+	LD R2, valueDecimal2
 	
 	; add them together
 	ADD R0, R1, R2
